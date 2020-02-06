@@ -8,11 +8,13 @@ This document serves to outline the mission, goals, and organizational structure
 
 == Mission
 
-== Goals
+PLT-COM's mission is to provide firearms training, political education, and community organization to the working class.
+
+We do not see firearms as a vehicle to pursue political change, but as an important tool for communities' self defense while pursuing liberatory change in their lives.
 
 == Organizational structure
 === National Structure
-* Central Committee
+* <<Committee-Process.adoc#,Central Committee>>
 * National Committees
 * National Working Groups
 
