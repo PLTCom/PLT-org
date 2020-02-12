@@ -23,7 +23,7 @@ Certain violations of the member expectations policy warrant immediate removal f
 * association with right wing or fascist groups
 
 
-Other violations of the member expectations policy will be addressed using the probationary policy. Should a member fail to mee the guidelines set in the probationary report, the member, CD, and RD will come before the Central Committee to discuss the situation. The Central Committee will then decide whether to remove the member, or to continue with another probationary report. Should a member fail to meet the conditions of the second probationary report, they are removed from the organization.
+Other violations of the member expectations policy will be addressed using the probationary policy. Should a member fail to meet the guidelines set in the probationary report, the member, CD, and RD will come before the Central Committee to discuss the situation. The Central Committee will then decide whether to remove the member, or to continue with another probationary report. Should a member fail to meet the conditions of the second probationary report, they are removed from the organization.
 
 
 == Membership Tiers
@@ -34,9 +34,9 @@ Provisional members have freshly joined the organization. They cannot vote. To m
 
 === Voting
 
-Voting members have completed the political education requirement to participate in PLTCOM activities, and are expected to join at least one, but not more than two total, working groups or committees. For more information on working groups and committees, <<Committees-splashpage.adoc#,click here.>> Voting members are expected to pass the introduction to firearms and introduction to first aid courses. 
+Voting members have completed the political education requirement to participate in PLTCOM activities, and are expected to join at least one, but not more than two total, working groups or committees. For more information on working groups and committees, <<Committees-splashpage.adoc#,click here.>> Voting members are expected to pass the introduction to firearms and introduction to first aid courses.
 
-Voting members are ineligible to hold leadership positions, and must complete the requirements to become a full membership to hold office.
+Voting members are ineligible to hold leadership positions, and must complete the full member requirements to become a full membership to hold office.
 
 === Full Member
 
