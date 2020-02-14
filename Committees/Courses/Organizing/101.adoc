@@ -1,14 +1,22 @@
-// This is a skeleton. Duplicate this file and edit, do not modifiy this file
 = Organizing 101
 
 === Course Objectives
 // List what your students will learn from the course here
 
+Students will read the following texts:
 
+- Mao "Get Organized!"
 
+- Mao "On Practice"
+
+- Mao "On Policy"
+
+At the end of this course, students will have a basic understanding of party membership. 
 
 === Course Composition
 // What will your course look like? Lecture? Hands-on?
+// This can be up to the teachers and their conditions, but the method used must be approved by the committee chair.
 
 === Course Assessments
 // How will students be assessed for their knowledge?
+// There **must** be a form of testing to ensure student comprehension. 
