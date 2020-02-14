@@ -1,5 +1,5 @@
 // This is a skeleton. Duplicate this file and edit, do not modifiy this file
-= Basic Firearms Safety and Operation
+= Course Title Here
 
 === Course Objectives
 // List what your students will learn from the course here
