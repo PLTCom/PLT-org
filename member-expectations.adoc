@@ -5,54 +5,59 @@ To effectively accomplish our goals as an organization, PLT-COM requires dedicat
 
 == Probationary Policy
 
-Should a member fail to meet the expectations set below, they will be placed on probationary status. A meeting will be held with the Regional Director and Chapter Director to discuss what issues the member may be having that prevents their full participation. The RD and CD will sumbit a joint report to the CC with their recommended course of action. The CC will review the report, make any adjustments needed, and send the final decision back to the CD, RD, and member to be implemented.
+Should a member fail to meet the expectations set below, they will be placed on probationary status. A meeting will be held with the Regional Director and Chapter Director to discuss what issues the member may be having that prevents their full participation. The RD and CD will submit a joint report to the CC with their recommended course of action. The CC will review the report, make any adjustments needed, and send the final decision back to the CD, RD, and member to be implemented.
 
-The goal of the probationary policy is not to be punative, but rather to dissect the issues that may be going on and attempt to correct them. However, members failing to meet the 
+The goal of the probationary policy is not to be punitive, but rather to dissect the issues that may be going on and attempt to correct them. However, members failing to meet the
 guidelines set forth in the probationary report may be removed from the organization.
 
 
 == Grounds for Removal
 
-Certain violations of the member expecations policy warrant immediate removal from the organization. Those include:
+Certain violations of the member expectations policy warrant immediate removal from the organization. Those include:
 
 * sexual assault
-* sexual harrassment
+* sexual harassment
 * bigotry
 * discrimination on the basis of gender, race, or sexual orientation
 * violence towards another member
+* association with right wing or fascist groups
 
 
-Other violations of the member expectations policy will be addressed using the probationary policy. Should a member fail to mee the guidelines set in the probationary report, the member, CD, and RD will come before the Central Committee to discuss the situation. The Central Committee will then decide whether to remove the member, or to continue with another probationary report. Should a member fail to meet the conditions of the second probationary report, they are removed from the organization.
+Other violations of the member expectations policy will be addressed using the probationary policy. Should a member fail to meet the guidelines set in the probationary report, the member, CD, and RD will come before the Central Committee to discuss the situation. The Central Committee will then decide whether to remove the member, or to continue with another probationary report. Should a member fail to meet the conditions of the second probationary report, they are removed from the organization.
 
-== New Member Requirements
 
-New members are held to the same expectations as full members, except for committeee or working group requirements, and instead must meet the education requirements listed below to become full members.
+== Membership Tiers
 
-=== Education Requirements
+=== Provisional
 
-==== Political Education
+Provisional members have freshly joined the organization. They cannot vote. To move from Provisional to Voting, a member must participate in the PLTCOM introduction to Socialism and Marxism socialism. The requirement can be waived through participation in a Party with an equivalent education component, or at the discretion of the Central Committee.
+
 
 New members must pass PLTCOMs introductory course to scientific socialism. This can be waived if a member has joined a party who provides a political education program that is equivalent to PLTCOM's introduction to scientific socialism.
 
-==== Firearms Education
 
-New members must demonstrate a proficency with firearms, passing the introduction to firearms course provided by PLTCOM
 
-==== First Aid Education
+Voting members have completed the political education requirement to participate in PLTCOM activities, and are expected to join at least one, but not more than two total, working groups or committees. For more information on working groups and committees, <<Committees-splashpage.adoc#,click here.>> Voting members are expected to pass the introduction to firearms and introduction to first aid courses.
 
-New members must pass the introduction to first aid course provided by PLTCOM
+Voting members are ineligible to hold leadership positions, and must complete the full member requirements to become a full membership to hold office.
+
+=== Full Member
+
+To become a full member, a voting member must join a Marxist-Leninist or Marxist-Leninist-Maoist party, or show proof that progress has been made towards joining a party, or proof that no party exists in the area. Full members can hold leadership positions in the organization.
+
 
 == Full Member Requirements  
 
 ==== Chapter Meetings
 
-At a minimum, chapters should be holding 1 quarterly general meeting. Members need to attend 75% of general meetings held during a year. 
+At a minimum, chapters should be holding 1 quarterly general meeting. Members need to attend 75% of general meetings held during a year.
 
 ==== Committee or Working Group meetings
 
 Committee or Working Group meetings should be held monthly, at a minimum. Members need to attend 75% of committee or working group meetings held during a year to remain a full member. If this is not met, member status will revert to probationary status.
 
 === Workload Requirement
+
 
 Full members are required to join one committee or working group and participate fully in the work being done. 
 
@@ -80,4 +85,7 @@ To avoid confrontation over incorrect views is tantamount to a criticism of scie
 Therefore it is **mandatory** that in the course of organizational work that _full members_ serve as mentors for the _new members_ and vigilantly stand guard against a liberal apathy for ideological struggle and appropriately correct comrades that display incorrect ideas. What is correct and incorrect is generally learned by two methods: social practice, and scientific experiment. The ideas that succeed are those that are right and the ideas that fail are incorrect. A simplistic but accurate consideration to any context. Where to succeed is desireable and failure is not in relation to our social practice. 
 
 Scientific socialism is not an abstract dogma, its is consciously maintained to coincide with existing reality. It evolves dialectically to reflect the objective conditions of its environment. So too, must we work to correct our ideas to reflect a world in motion. 
+
+
+Full members are required to join one committee or working group and participate fully in the work being done.
 
