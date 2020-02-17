@@ -30,21 +30,3 @@ git push
 
 === Style Guide
 Full style guide https://github.com/PLTCom/style-guide[here].
-
-=== Document Structure
-
-
-----
-Committees/
-  National Committees/
-    NPEC/
-      NPEC.adoc
-      NPED.adoc
-      CPED.adoc
-    NFEC/
-      NFEC.adoc
-      NFED.adoc
-      CFED.adoc
-    NFAC/
-      
-----
