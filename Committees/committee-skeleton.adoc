@@ -1,0 +1,15 @@
+// Title of Committee goes here
+=
+
+== Composition
+// Use this space to describe who the committee is composed of
+
+== Requirements
+// This section should describe the requirements that need to be met to join  this committee. For national or regional committees, include this section:
+// Joining this committee requires you fulfill the requirements listed here (link to relevant chapter committee director)
+
+== Meetings
+// Describe the typical meeting and the frequency
+
+== Duties
+// Describe the duties of members on this committee

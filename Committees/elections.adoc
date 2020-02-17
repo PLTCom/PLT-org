@@ -1,0 +1,32 @@
+= Elections
+:toc:
+
+It is extremely important that members participate in the selection of their leadership. However, direct election of leadership can quickly turn into a popularity contest, which should be avoided. To balance these two requirements, the election procedure below has been implemented.
+
+== Chapter level leadership
+
+=== Chapter Central Committee (other than committee heads)
+
+The chapter members will nominate other members for the positions of Chapter Director, Assistant Chapter Director, Chapter Secretary, and Chapter Treasurer.
+
+A nominating committee, composed of the current Chapter Central Committee (if available), the <<RDC.adoc#, Regional Director's Council (RDC)>>, and the <<Central Committee.adoc#,National Central Committee>>, will review the nominations, conduct interviews, and vote on the most qualified candidate.
+
+=== Chapter Committee Heads
+
+The chapter members will nominate other members to lead Chapter Committees.
+
+A nominating committee, composed of the Chapter Central Committee, the <<RD.adoc#,Regional Director (RD)>> and <<NFED.adoc#,National Firearms Education Director (NFED)>>, will review the nominations, conduct interviews and vote on the most qualified candidate.
+
+== Regional Leadership
+
+=== Regional Directors (RDs)
+
+Regional directors are chosen from chapter directors. Chapter directors may nominate other chapter directors for the RD position.
+
+A nominating committee composed of the Regional Council, Chapter Directors, and the National Central Committee will review the nominations, conduct interviews, and vote on the most qualified candidate.
+
+== National Leadership
+
+=== National President and Vice President
+
+The National President and Vice President are 
