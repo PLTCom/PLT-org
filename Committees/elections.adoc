@@ -9,13 +9,13 @@ It is extremely important that members participate in the selection of their lea
 
 The chapter members will nominate other members for the positions of Chapter Director, Assistant Chapter Director, Chapter Secretary, and Chapter Treasurer.
 
-A nominating committee, composed of the current Chapter Central Committee (if available), the <<RDC.adoc#, Regional Director's Council (RDC)>>, and the <<Central Committee.adoc#,National Central Committee>>, will review the nominations, conduct interviews, and vote on the most qualified candidate.
+A nominating committee, composed of the current Chapter Central Committee (if available), the <<RDC.adoc#, Regional Director's Council (RDC)>>, and the <<Central Committee.adoc#,National Central Committee>>, will review the nominations, conduct interviews, and vote on the most qualified candidate. The candiate winning a majority of votes from the nominating committee will be chosen as the winner.
 
 === Chapter Committee Heads
 
 The chapter members will nominate other members to lead Chapter Committees.
 
-A nominating committee, composed of the Chapter Central Committee, the <<RD.adoc#,Regional Director (RD)>> and <<NFED.adoc#,National Firearms Education Director (NFED)>>, will review the nominations, conduct interviews and vote on the most qualified candidate.
+A nominating committee, composed of the Chapter Central Committee, the <<RD.adoc#,Regional Director (RD)>> and <<NFED.adoc#,National Firearms Education Director (NFED)>>, will review the nominations, conduct interviews and vote on the most qualified candidate. The candiate winning a majority of votes from the nominating committee will be chosen as the winner.
 
 == Regional Leadership
 
@@ -23,10 +23,14 @@ A nominating committee, composed of the Chapter Central Committee, the <<RD.adoc
 
 Regional directors are chosen from chapter directors. Chapter directors may nominate other chapter directors for the RD position.
 
-A nominating committee composed of the Regional Council, Chapter Directors, and the National Central Committee will review the nominations, conduct interviews, and vote on the most qualified candidate.
+A nominating committee composed of the Regional Council, Chapter Directors, and the National Central Committee will review the nominations, conduct interviews, and vote on the most qualified candidate. The candiate winning a majority of votes from the nominating committee will be chosen as the winner.
 
 == National Leadership
 
 === National President and Vice President
 
-The National President and Vice President are 
+National President and Vice President will be selected by all members eligible to vote from RDs who wish to run. 
+
+A candidate's forum, with each candidate presenting their plans and ideas for the organization, will be held 1 month prior to the date of the election. The general membership will have 1 month to deliberate their ideas and the candidates should make themselves available for questions and critiques.  
+
+The candidage winning a simple majority of votes will be selected as the national president, and the candidate with the second most votes will be selected as Vice President. 
