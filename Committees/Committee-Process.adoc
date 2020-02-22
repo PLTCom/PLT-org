@@ -1,6 +1,6 @@
 = Committee Process
 
-This document outlines the rough process committees should implement to effectively set and meet goals.
+This document provides a general outline of the process committees should implement to effectively set and meet goals.
 
 == Conduct an Investigation
 
