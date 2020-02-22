@@ -4,7 +4,7 @@ This document provides a general outline of the process committees should implem
 
 == Conduct an Investigation
 
-After being elected, new committee directors should investigate the needs of the organization. This can be done by polling the members of your committee, who should have a better understanding of what's needed at the ground level, or by polling the membership directly using the forms service built in to Chapterbox*. You should ask open ended questions like:
+After being elected, new committee directors should investigate the needs of the organization. Recommended approaches include polling the members of your committee, who should have a better understanding of what is needed at the ground level, and by polling the membership directly using the forms service incorporated within Chapterbox*. You should ask open-ended questions like:
 
 * What needs are currently unmet in your local community, that could be met by this committee?
 * What are some projects you've seen around the community that could be better implemented by an explicitly socialist organization like PLT-COM?
