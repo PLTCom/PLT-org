@@ -6,7 +6,8 @@
 // List any requirements for leading the committee or working group
 * Sufficient training to conduct at least the Intro to Firearms course, with a plan for more advanced training
 * Completion of PLTCOM Introduction to Scientific Socialism
-
+* Membership in a PLTCOM-recognized Marxist-Leninist party or pre-party formation;footnote:[If there is at least one nominee meeting this recommendation, it becomes a requirement.] 
+* Additional training permitting the instruction of more advanced courses.
 == Duties
 // List the duties of the leadership position
 * Facilitate the regular meeting of the <<CFEC.adoc#,Chapter Firearms Education Committee (CFEC)>>
