@@ -11,9 +11,11 @@ The chapter members will nominate other members for the positions of Chapter Dir
 
 A nominating committee, composed of the current Chapter Central Committee (if available), the <<RDC.adoc#, Regional Director's Council (RDC)>>, and the <<Central Committee.adoc#,National Central Committee>>, will review the nominations, conduct interviews, and vote on the most qualified candidate. The candiate winning a majority of votes from the nominating committee will be chosen as the winner.
 
-=== Chapter Committee Heads
+=== Chapter Committee Director
 
-The chapter members will nominate other members to lead Chapter Committees.
+Any person pursuing nomination for committee directorship must sumbit an application. 
+
+The chapter members will nominate 1-3 other members to lead Chapter Committes after reviewing the sumbitted directorship application. 
 
 A nominating committee, composed of the Chapter Central Committee, the <<RD.adoc#,Regional Director (RD)>> and <<NFED.adoc#,National Firearms Education Director (NFED)>>, will review the nominations, conduct interviews and vote on the most qualified candidate. The candiate winning a majority of votes from the nominating committee will be chosen as the winner.
 
