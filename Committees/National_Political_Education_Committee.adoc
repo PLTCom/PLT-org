@@ -1,4 +1,5 @@
-= National Political Education Committee
+= Political Education Committee (PEC)
+
 
 == Purpose
 
@@ -6,7 +7,8 @@ Political education of PLTCom members is the sole mission of this committee. It 
 
 == Structure
 
-Only _full_ members can hold these positions:
+Only _full_ members footnote:[please see <<member-expectations.adoc#Full Member Requirements, the full member requirements>> for more details.]can hold these positions:
+
 
 - Committee Chair
 - Librarian

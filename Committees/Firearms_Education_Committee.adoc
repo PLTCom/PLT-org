@@ -1,20 +1,19 @@
-= Firearms Education Committee (CFEC)
+= Firearms Education Committee (FEC)
 // Title of committee goes here
 :toc:
 
 == Composition
 // Use this space to describe who the committee is composed of
-The CFEC is composed of PLTCOM members who meet the requirements listed below in the requirements section, and have applied for the committee. The committee is lead by the <<Firearms_Education_Director.adoc#,Firearms Education Director (FED)>>
+The FEC is composed of PLTCOM members who meet the requirements listed below in the requirements section, and have applied for the committee. The committee is lead by the <<Firearms_Education_Director.adoc#,Firearms Education Director (FED)>>
 
 == Requirements
-// This section should describe the requirements that need to be met to join  this committee. For national or regional committees, include this section:
-// Joining this committee requires you fulfill the requirements listed here (link to relevant chapter committee director)
+// This section should describe the requirements that need to be met to join this committee:
 
 Members must submit an application to join the committee. The application asks the following questions:
 
 * How much, and what kind of, experience do you have with firearms?
-* How many hours per week, on average, are you willing to commit to this committee
-* How many committees are you already a member of
+* How many hours per week, on average, are you willing to commit to this committee?
+* How many committees are you already a member of?
 
 These questions are meant to assess the applicant's ability to participate in the committee and to develop a training plan for the further development of the applicant's firearms proficiency, with the aim of heightening their capacity to contribute. Importantly, members will **NOT** be excluded for lack of firearms experience.
 

@@ -1,11 +1,11 @@
 // Title of leadership position goes here
-= Firearms Education Director (CFED)
+= Firearms Education Director (FED)
 :toc:
 
 == Requirements
 // List any requirements for leading the committee or working group
 * Sufficient training to conduct at least the Intro to Firearms course, with a plan for more advanced training
-* Completion of PLTCOM Introduction to Scientific Socialism
+* Completion of ED101: Introduction to Scientific Socialism footnote:[This requirement comes into effect after the rollout of the ED101 course]
 * Membership in a PLTCOM-recognized Marxist-Leninist party or pre-party formation footnote:[If there is at least one nominee meeting this recommendation, it becomes a requirement.]
 * Additional training permitting the instruction of more advanced courses.
 
