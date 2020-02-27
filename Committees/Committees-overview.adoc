@@ -1,0 +1,30 @@
+= Committees and Working Groups
+:toc:
+
+PLT-COM functions through its committees and working groups. All members should participate in at least one working group or committee to help with the organization's workload.
+
+== Committees
+
+Committees are long standing functional groups that have been deemed critical to the mission of PLT-COM. Committees are composed of a director, responsible for the direction of the committee, and its members. The process committees work through to outline goals and accomplish tasks is outlined <<Committee-Process.adoc#, here>>
+
+
+
+=== Current Committees
+
+* Political Education Committee (PEC)
+* Firearms Education Committee (FEC)
+* Legislative Committee (LC)
+* Security Committee (SC)
+
+== Working Groups
+
+Working groups are short lived committees that have a specific set of goals and tasks to accomplish, and dissolve once their duties are fulfilled.
+
+== Formation
+=== Committees
+
+Committees can be formed by petitioning the Central Committee. The petition must include:
+* The new committee's composition, requirements to join the committee, how often it should meet, and the duties of the committee
+* The requirements and duties of the new committee's directors, along with how the director is elected and their term length and limits.
+* The names of the founding members of the committee
+* 1-3 candidates for the committee director position
