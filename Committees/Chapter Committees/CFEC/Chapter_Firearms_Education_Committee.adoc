@@ -1,0 +1,36 @@
+= Chapter Firearms Education Committee (CFEC)
+// Title of committee goes here
+:toc:
+
+== Composition
+// Use this space to describe who the committee is composed of
+The CFEC is composed of chapter members who meet the requirements listed below in the requirements section, and have applied for the committee. The committee is lead by the <<CFED.adoc#,Chapter Firearms Education Director (CFED)>>
+
+== Requirements
+// This section should describe the requirements that need to be met to join  this committee. For national or regional committees, include this section:
+// Joining this committee requires you fulfill the requirements listed here (link to relevant chapter committee director)
+To join the CFEC, you must complete the following PLTCOM courses:
+
+* ED101: Introduction to Scientific Socialism
+* FA101: Introduction to Firearms
+
+Course equivalencies may be accepted based on the judgment of the CFED and National Central Committee. No further experience with firearms is necessary.  
+
+Further, members must submit an application to join the committee. The application asks the following questions:
+
+* How much, and what kind of, experience do you have with firearms?
+* How many hours per week, on average, are you willing to commit to this committee
+* How many committees are you already a member of
+
+These questions are meant to assess the applicant's ability to participate in the committee and to develop a training plan for the further development of the applicant's firearms proficiency, with the aim of heightening their capacity to contribute. Importantly, members will **NOT** be excluded for lack of firearms experience.
+
+== Meetings
+// Describe the typical meeting and the frequency
+The CFEC should meet at least monthly to discuss the progress on the goals set in the One Year Plan
+
+== Duties
+// Describe the duties of members on this committee
+
+* Assist the CFED in the drafting of the committee's One Year Plan
+* After coordinating with the CFED on a personal training plan, successful completion of the goals enumerated therein
+* Take responsibility for executing tasks on the One Year Plan and complete them in a reasonable timeframe

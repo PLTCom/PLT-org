@@ -1,0 +1,27 @@
+// Title of leadership position goes here
+= Chapter Firearms Education Director (CFED)
+:toc:
+
+== Requirements
+// List any requirements for leading the committee or working group
+* Sufficient training to conduct at least the Intro to Firearms course, with a plan for more advanced training
+* Completion of PLTCOM Introduction to Scientific Socialism
+* Membership in a PLTCOM-recognized Marxist-Leninist party or pre-party formation footnote:[If there is at least one nominee meeting this recommendation, it becomes a requirement.] 
+* Additional training permitting the instruction of more advanced courses.
+
+== Duties
+// List the duties of the leadership position
+* Facilitate the regular meeting of the <<CFEC.adoc#,Chapter Firearms Education Committee (CFEC)>>
+* Submit regular reports on CFEC activities to the <<NFEC.adoc#,National Firearms Education Committee (NFEC)>>
+* Track training of chapter members
+* Encourage chapter and committee members to take additional training beyond the minimum requirements
+* Coordinate scheduling of courses on a regular basis to ensure members meet minimum training requirements
+* Ensure sufficient training of committee members so they can conduct courses
+
+== Terms and Election
+// Describe the process for getting elected or appointed to the position, how long each leader serves and  how many terms the leader can serve
+The CFED is nominated by the chapter members, and follows the standard <<elections.adoc#,elections process>>.
+
+A CFED serves for a 1 year term, at which they will automatically be included in the next election process, unless they formally announce they are running for another position or do not wish to run again.
+
+CFEDs have no term limits. 

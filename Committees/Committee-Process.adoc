@@ -1,0 +1,84 @@
+= Committee Process
+
+This document provides a general outline of the process committees should implement to effectively set and meet goals.
+
+== Conduct an Investigation
+
+After being elected, new committee directors should investigate the needs of the organization. Recommended approaches include polling the members of your committee, who should have a better understanding of what is needed at the ground level, and by polling the membership directly using the forms service incorporated within Chapterbox*. You should ask open-ended questions like:
+
+* What needs are currently unmet in your local community, that could be met by this committee?
+* What are some projects you've seen around the community that could be better implemented by an explicitly socialist organization like PLT-COM?
+* Are there gaps in your knowledge that could be filled by this committee?
+* What is the current political climate locally? Are there any actions this committee could take to put pressure on capitalist power structures OR remove pressure from the working class?
+
+Directors should also be regularly submitting Weekly Reports (WRs), and may occasionally submit After Action Reports (AARs) or Project Proposal Forms (PPFs). Reports should be catalogued by committee and available for review in Chapterbox*. These should be continuously reviewed, and used to guide your investigation or to assess a new project's efficacy.
+
+== Synthesize information and formulate a 1 year plan
+
+At the conclusion of the investigation period, the committee should meet to digest and synthesize all of the information gathered. The committee should create concrete short, medium and long term goals, with estimated completion dates, goal breakdown, estimated materials, monetary costs, or any other needs to accomplish the goal.
+
+For example:
+
+At the conclusion of it's investigation, the National Political Education Committee (NPEC) has decided the organization needs a course on US intervention in Venezula, because of escalating US aggression towards Venezuela. This being an immediate need, it's addressed as a short term goal. The committee needs to gather the data for the course, write the presentation, instructor notes, and class materials. The committee also needs to decide who is teaching the courses (will it be every chapter, individually, select chapters to prepare for an action, or an at-large course) and what medium will be used.
+
+Each of the aforementioned items could be broken down as followed:
+
+*Goal: Build course on US intervention in Venezuela*
+*Start Date: 1/1/2020*
+*Deadline for completion: 1/31/2020*
+
+[cols=4*,options=header]
+|===
+|Task
+|Projected Completion Date
+|Needed materials
+|Assigned committee members
+
+|Gather Information
+|
+|
+|
+
+|Prepare presentation, course materials, instructor notes
+|
+|
+|
+
+|Decide course format
+|
+|
+|
+
+|Decide course availability
+|
+|
+|
+
+|Decide course instructors
+|
+|
+|
+
+|===
+
+A complete 1 year plan will have a bullet-point list of each short, medium and long term goals, with tentative completion dates, listed on the first page as a synopsis. Each following page will have a short purpose section to explain why the committee has set this goal, and a complete breakdown of each goal as outlined above.
+
+When the 1 year plan draft is finished, it is submitted to the Central Committee for review.
+
+== Debate and Voting
+
+After review, the Central Committee will release a cumulative 1 year plan for the organization. Members will have 30 days* to discuss and debate the 1 year plan. At the close of the debate period, the feedback taken from membership will be used by the committee to make changes and finalize the 1 year plan. The 1 year plan will be sent back to the Central Committee for a final round of debate. At the close of debate, the plan is finalized and will be implemented as written.
+
+== Changes to the 1 year plan after implementation
+
+After implementing the 1 year plan, committees should file WRs detailing their progress towards completing the goals of the 1 year plan. In some cases, the plan may need to be changed because of unforeseen events or by missing deadlines. In other cases, goals may be completed ahead of schedule and committees may want to add goals.
+
+
+Should the 1 year plan need to be changed, committees should petition the Central Committee to change their 1 year plan. The petition should state the following:
+
+* The proposed change(s) to the 1 year plan
+* Why the change is needed
+* What caused the goal to change and how it can be avoided in the future (If applicable; For example, underestimated time required for drafting of materials, lack of members to complete tasks, poor weather caused low turnout, etc)
+* A new draft of the changed goal (whether added or changed)
+
+The CC will review the petition, and help adjust goals as needed. Should a new goal be added, the draft plan will go through the same debate and voting process as new 1 year plans.

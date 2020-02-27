@@ -1,0 +1,33 @@
+= Committees and Working Groups
+:toc:
+
+PLT-COM functions through its committees and working groups. All members should participate in at least one working group or committee to help with the organization's workload.
+
+== Committees
+
+Committees are long standing functional groups that have been deemed critical to the mission of PLT-COM. Committees are composed of a director, responsible for the direction of the committee, and its members. There are committees at the national and local level, with local committees being mirrors of their national counterpart. Generally, the decisions made and directions taken at the national level are carried out by the committee at the local level. Linked below are descriptions of each committee.
+
+The process committees work through to outline goals and accomplish tasks is outlined <<Committee-Process.adoc#, here>>
+
+=== National Committees
+
+* Central Committee (CC)
+* <<RDC.adoc#, Regional Director's Council (RDC)>>
+* <<NPEC.adoc#, National Political Education Committee (NPEC)>>
+* National Firearms Education Committee (NFEC)
+* National First Aid Committee (NFAC)
+
+=== Local Committees
+
+* Chapter Political Education Committee (CPEC)
+* Chapter Firearms Education Committee (CFEC)
+* Chapter First Aid Committee (CFAC)
+
+== Working Groups
+
+Working groups are short lived committees that have a specific set of goals and tasks to accomplish, and dissolve once their duties are fulfilled. Working groups are more likely to be local groups, giving chapters flexibility to respond to events occurring on the ground
+
+== Formation
+=== Committees
+
+The formation of a committee will typically begin after the
