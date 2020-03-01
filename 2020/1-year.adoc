@@ -4,3 +4,22 @@
 
 :toc: auto
 
+== Planning
+
+=== Purpose
+
+=== types of planning
+
+== Inventory
+
+== Goals
+
+== Actions to be taken
+
+=== Schedule of actions
+
+=== Interim milestones to measure effectiveness
+
+=== Set of criteria to determine success
+
+== Monitoring component
