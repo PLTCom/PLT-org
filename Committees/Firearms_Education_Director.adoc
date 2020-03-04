@@ -1,0 +1,29 @@
+// Title of leadership position goes here
+= Firearms Education Director (FED)
+:toc:
+
+== Requirements
+// List any requirements for leading the committee or working group
+* Sufficient training to conduct at least the Intro to Firearms course, with a plan for more advanced training
+* Completion of ED101: Introduction to Scientific Socialism footnote:[This requirement comes into effect after the rollout of the ED101 course]
+* Membership in a PLTCOM-recognized Marxist-Leninist party or pre-party formation footnote:[If there is at least one nominee meeting this recommendation, it becomes a requirement.]
+* Additional training permitting the instruction of more advanced courses.
+
+== Duties
+// List the duties of the leadership position
+* Facilitate the regular meeting of the <<Firearms_Education_Committee.adoc#, Firearms Education Committee (FEC)>>
+* Submit regular reports on FEC activities to the Central Committee
+* Track training of committee members
+* Encourage chapter and committee members to take additional training beyond the minimum requirements
+* Hold FEC members accountable for completing goals outlined in the One Year Plan
+* Coordinate scheduling of courses on a regular basis to ensure members meet minimum training requirements
+* Ensure sufficient training of committee members so they can conduct courses
+* Attend the regular meeting of the Central Committee
+
+== Terms and Election
+// Describe the process for getting elected or appointed to the position, how long each leader serves and  how many terms the leader can serve
+The FED is nominated by the committee members, and follows the standard <<elections.adoc#,elections process>>.
+
+A FED serves for a 1 year term, at which they will automatically be included in the next election process, unless they formally announce they are running for another position or do not wish to run again.
+
+FEDs have no term limits. 
