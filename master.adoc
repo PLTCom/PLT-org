@@ -1,0 +1,20 @@
+= PLTCOM Organization Manual
+:toc:
+
+
+
+include::member-expectations.adoc[leveloffset=+1]
+
+include::committees/Committees-overview.adoc[leveloffset=+1]
+
+include::committees/Committee-Process.adoc[leveloffset=+1]
+
+include::committees/elections.adoc[leveloffset=+1]
+
+include::committees/Firearms_Education_Committee.adoc[leveloffset=+1]
+
+include::committees/Firearms_Education_Director.adoc[leveloffset=+1]
+
+include::committees/Political_Education_Committee.adoc[leveloffset=+1]
+
+image::1 year plan template.pdf[1..8]
