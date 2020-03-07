@@ -8,25 +8,25 @@
 
 === Purpose
 
-==== Summary of Goals
+* Summary of Goals
 
-==== Summary of Actions
+* Summary of Actions
 
 == Inventory
 
-=== Relevant Material and Personel on Hand for the Completion of the Plan
+* All Relevant Material and Personel on Hand for the Completion of the Plan
 
-=== Relevant Material and Personel Needed for the Completion of the Plan
+* All Relevant Material and Personel Needed for the Completion of the Plan
 
 == Goals
 
-=== Realistic Goals to be Accomplished Within the Span of One Year
+* Realistic goals to be accomplished within the span of one year
 
 == Actions to be taken
 
-=== A List of all Planned Actions to Accomplish the Listed Goals
+=== A list of all planned actions to accomplish the listed goals
 
-==== Every action is assigned a portion of resources mentioned in the Inventory section
+* Every action is assigned a portion of resources mentioned in the Inventory section
 
 === Schedule of actions
 
