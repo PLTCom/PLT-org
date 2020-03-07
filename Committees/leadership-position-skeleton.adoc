@@ -1,0 +1,12 @@
+// Title of leadership position goes here
+=
+:toc:
+
+== Requirements
+// List any requirements for leading the committee or working group
+
+== Duties
+// List the duties of the leadership position
+
+== Term and Election
+// Describe the process for getting elected or appointed to the position, how long each leader serves and  how many terms the leader can serve

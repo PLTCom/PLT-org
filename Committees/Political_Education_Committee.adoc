@@ -1,0 +1,31 @@
+= Political Education Committee (PEC)
+
+
+== Purpose
+
+Political education of PLTCom members is the sole mission of this committee. It will provide all members a course in capitalism first and scientific socialism second followed by a course on party work. It will also maintain a comprehensive digital library of marxist political material as well as a physical library as possible. 
+
+== Structure
+
+Only _full_ members footnote:[please see <<member-expectations.adoc#Full Member Requirements, the full member requirements>> for more details.]can hold these positions:
+
+
+- Committee Chair
+- Librarian
+- Teacher(s)
+
+== Meetings
+
+This committee will meet at a minimum of 4 times per month to discuss and plan educational curriculum. 
+
+== Reports
+
+This committee will submit a report to the Central Committee every other meeting detailing: work hours, meetings held, students, and a summary of events.
+
+=== Courses
+
+The specific structure and coursework is up to the discretion of the committee, but for each of these courses, the works stipulated in the course information **must** be used. 
+
+== Requirements
+
+Everyone on the committee **must** be able to prove comprehension of _any_ material they submit. Anyone considered for the committee must also be able to demonstrate an education in the works above either through PLT-Com or elsewhere. People should only teach what they are themselves profficient in. As well, this committee should work with lower level committees to provide assistance and guidance for their local educational efforts. 
