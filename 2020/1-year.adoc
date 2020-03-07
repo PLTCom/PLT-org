@@ -1,12 +1,11 @@
-= PLT-COM 
+= [Current Year] One Year Plan for the People's Liberation Training Committee
 
-= 1 YEAR PLAN
+:toc:
+:toc-placement!:
 
-:toc: auto
+toc::[]
 
-== [Current Year] One Year Plan for the People's Liberation Training Committee
-
-=== Purpose
+== Purpose
 
 * Summary of Goals
 
@@ -30,8 +29,16 @@
 
 === Schedule of actions
 
+* Chronologically ordered list of actions specified in the "Actions to be taken" section
+
 === Interim milestones to measure effectiveness
 
-=== Set of criteria to determine success
+* At what point time should certain things be done (e.g. at so and so date the First Aid Committee (CFAC) will have a certain percentage of the "Actions to be taken" done)
+
+== Set of criteria to determine success
+
+* Slightly different than the above in that this section specifically defines what success would mean in reference to the main goals that absolutely need to be accomplished
 
 == Monitoring component
+
+* What committee(s) will be charged with monitoring the progress of the plan. What should they look for, what the reports should detail, and who will review the reports. Lastly, list the provisions for certain scenarios in the progress of the plan, i.e., if the work is exceeding planned goals, new goals will be made, or if the work is not reaching te goals, what measures should be taken to correct this?
