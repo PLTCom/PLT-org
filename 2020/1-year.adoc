@@ -1,44 +1,45 @@
 = [Current Year] One Year Plan for the People's Liberation Training Committee
-
 :toc:
 :toc-placement!:
+
+image::https://cdn.discordapp.com/attachments/656005754079150093/685897654424961226/PLT-COM.png[]
 
 toc::[]
 
 == Purpose
 
-* Summary of Goals
+// Summary of Goals
 
-* Summary of Actions
+// Summary of Actions
 
 == Inventory
 
-* All Relevant Material and Personel on Hand for the Completion of the Plan
+// All Relevant Material and Personel on Hand for the Completion of the Plan
 
-* All Relevant Material and Personel Needed for the Completion of the Plan
+// All Relevant Material and Personel Needed for the Completion of the Plan
 
 == Goals
 
-* Realistic goals to be accomplished within the span of one year
+// Realistic goals to be accomplished within the span of one year
 
 == Actions to be taken
 
 === A list of all planned actions to accomplish the listed goals
 
-* Every action is assigned a portion of resources mentioned in the Inventory section
+// Every action is assigned a portion of resources mentioned in the Inventory section
 
 === Schedule of actions
 
-* Chronologically ordered list of actions specified in the "Actions to be taken" section
+// Chronologically ordered list of actions specified in the "Actions to be taken" section
 
 === Interim milestones to measure effectiveness
 
-* At what point time should certain things be done (e.g. at so and so date the First Aid Committee (CFAC) will have a certain percentage of the "Actions to be taken" done)
+// At what point time should certain things be done (e.g. at so and so date the First Aid Committee (CFAC) will have a certain percentage of the "Actions to be taken" done)
 
 == Set of criteria to determine success
 
-* Slightly different than the above in that this section specifically defines what success would mean in reference to the main goals that absolutely need to be accomplished
+// Slightly different than the above in that this section specifically defines what success would mean in reference to the main goals that absolutely need to be accomplished
 
 == Monitoring component
 
-* What committee(s) will be charged with monitoring the progress of the plan. What should they look for, what the reports should detail, and who will review the reports. Lastly, list the provisions for certain scenarios in the progress of the plan, i.e., if the work is exceeding planned goals, new goals will be made, or if the work is not reaching te goals, what measures should be taken to correct this?
+// What committee(s) will be charged with monitoring the progress of the plan. What should they look for, what the reports should detail, and who will review the reports. Lastly, list the provisions for certain scenarios in the progress of the plan, i.e., if the work is exceeding planned goals, new goals will be made, or if the work is not reaching te goals, what measures should be taken to correct this?
