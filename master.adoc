@@ -1,7 +1,7 @@
 = PLTCOM Organization Manual
 :toc:
 
-
+// Restructure
 
 include::member-expectations.adoc[leveloffset=+1]
 
