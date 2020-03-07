@@ -1,8 +1,26 @@
-= Committee Report for the People's Liberation Training Committee
+= Weekly Committee Report for the People's Liberation Training Committee Supreme Soviet
 
-[width="15%"]
-|=======
-|1 |2 |A
-|3 |4 |B
-|5 |6 |C
-|=======
+
+[width="50%",cols=">s,^m",frame="topbot",options="header"]
+|==========================
+|Working Group Metrics  |Input
+|Work Hours Consumed    |
+|Meetings Held          |
+|Members Involved       |
+|==========================
+
+// Work Hours Consumed: Multiply 'Members Involved' by the total hours reported by members of the committee
+// Meetings Held: Just the number of meetings held
+// Members Involved: A number of members that contributed during the week
+
+== Tasks or projects set in the working group plan that were worked on:
+
+// Reference tasks or projects mentioned in one of the working group plans
+
+== Summary of relevant week events:
+
+// Summarize the events of the past week, and the status of the previously mentioned tasks or projects
+
+== Other:
+
+// Any information that is pertinent to the report but doesn't fit in the other sections
