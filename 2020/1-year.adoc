@@ -1,10 +1,5 @@
 = [Current Year] One Year Plan for the People's Liberation Training Committee
 :toc:
-:toc-placement!:
-
-image::https://cdn.discordapp.com/attachments/656005754079150093/685897654424961226/PLT-COM.png[]
-
-toc::[]
 
 == Purpose
 
