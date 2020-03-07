@@ -4,17 +4,29 @@
 
 :toc: auto
 
-== Planning
+== [Current Year] One Year Plan for the People's Liberation Training Committee
 
 === Purpose
 
-=== types of planning
+==== Summary of Goals
+
+==== Summary of Actions
 
 == Inventory
 
+=== Relevant Material and Personel on Hand for the Completion of the Plan
+
+=== Relevant Material and Personel Needed for the Completion of the Plan
+
 == Goals
 
+=== Realistic Goals to be Accomplished Within the Span of One Year
+
 == Actions to be taken
+
+=== A List of all Planned Actions to Accomplish the Listed Goals
+
+==== Every action is assigned a portion of resources mentioned in the Inventory section
 
 === Schedule of actions
 
