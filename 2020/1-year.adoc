@@ -1,6 +1,10 @@
 = [Current Year] One Year Plan for the People's Liberation Training Committee
 :toc:
 
+== Links to the Relevant Working Groups Covered in this Plan
+
+// Only working groups with finalized plans should be included in this document to prevent unecessary revision to the document
+
 == Purpose
 
 // Summary of Goals
