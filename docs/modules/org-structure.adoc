@@ -49,5 +49,5 @@ The NFEC sets the guidelines for firearms education throughout the organization.
 
 == Chapter Structure
 
-==== Chapter Committees
-==== Chapter Working Groups
+=== Chapter Committees
+=== Chapter Working Groups

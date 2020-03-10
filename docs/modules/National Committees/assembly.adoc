@@ -1,0 +1,19 @@
+include::Central Committee/General_Secretary.adoc[]
+
+include::Central Committee/Undersecretary.adoc[]
+
+include::Central Committee/Finance_Secretary.adoc[]
+
+include::Central Committee/Recording_Secretary.adoc[]
+
+include::NFAC/National_First_Aid_Committee.adoc[]
+
+include::NFAC/National_First_Aid_Director.adoc[]
+
+include::NFEC/National_Firearms_Education_Committee.adoc[]
+
+include::NFEC/National_Firearms_Education_Director.adoc[]
+
+include::NPEC/National_Political_Education_Committee.adoc[]
+
+include::NPEC/National_Political_Education_Director.adoc[]

@@ -1,0 +1,17 @@
+include::Chapter Central Committee/Chapter_General_Secretary.adoc[]
+
+include::Chapter Central Committee/Chapter_Undersecretary.adoc[]
+
+include::Chapter Central Committee/Chapter_Finance_Secretary.adoc[]
+
+include::CFAC/Chapter_First_Aid_Committee.adoc[]
+
+include::CFAC/Chapter_First_Aid_Director.adoc[]
+
+include::CFEC/Chapter_Firearms_Education_Committee.adoc[]
+
+include::CFEC/Chapter_Firearms_Education_Director.adoc[]
+
+include::CPEC/Chapter_Political_Education_Committee.adoc[]
+
+include::CPEC/Chapter_Political_Education_Director.adoc[]
