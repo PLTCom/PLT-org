@@ -1,17 +1,19 @@
-include::Chapter Central Committee/Chapter_General_Secretary.adoc[]
+include::Chapter_Committees.adoc[]
 
-include::Chapter Central Committee/Chapter_Undersecretary.adoc[]
+include::Chapter Central Committee/Chapter_General_Secretary.adoc[leveloffset=+1]
 
-include::Chapter Central Committee/Chapter_Finance_Secretary.adoc[]
+include::Chapter Central Committee/Chapter_Undersecretary.adoc[leveloffset=+1]
 
-include::CFAC/Chapter_First_Aid_Committee.adoc[]
+include::Chapter Central Committee/Chapter_Finance_Secretary.adoc[leveloffset=+1]
 
-include::CFAC/Chapter_First_Aid_Director.adoc[]
+include::CFAC/Chapter_First_Aid_Committee.adoc[leveloffset=+1]
 
-include::CFEC/Chapter_Firearms_Education_Committee.adoc[]
+include::CFAC/Chapter_First_Aid_Director.adoc[leveloffset=+1]
 
-include::CFEC/Chapter_Firearms_Education_Director.adoc[]
+include::CFEC/Chapter_Firearms_Education_Committee.adoc[leveloffset=+1]
 
-include::CPEC/Chapter_Political_Education_Committee.adoc[]
+include::CFEC/Chapter_Firearms_Education_Director.adoc[leveloffset=+1]
 
-include::CPEC/Chapter_Political_Education_Director.adoc[]
+include::CPEC/Chapter_Political_Education_Committee.adoc[leveloffset=+1]
+
+include::CPEC/Chapter_Political_Education_Director.adoc[leveloffset=+1]
