@@ -10,22 +10,22 @@ This document serves to outline the mission, goals, and organizational structure
 === Goals
 
 === Organizational structure
-* ##### Chapter Structure
-  * ##### Chapter Committees
-  * ##### Chapter Working-Groups
-* ##### Regional Structure
-* ##### National Structure
-  * ##### National Committees
-  * ##### National Working-Groups
+* **Chapter Structure**
+** **Chapter Committees**
+** **Chapter Working-Groups**
+* **Regional Structure**
+* **National Structure**
+** **National Committees**
+** **National Working-Groups**
 
 === Processes and Documents
-* ##### New Members
-* ##### New Chapter Formation
-* ##### Joining an Existing Chapter
-* ##### Membership Levels
-* ##### Budget Requests
-* ##### Action Requests
-* ##### Committee Reports
+* **New Members**
+* **New Chapter Formation**
+* **Joining an Existing Chapter**
+* **Membership Levels**
+* **Budget Requests**
+* **Action Requests**
+* **Committee Reports**
 
 == Build instructions
 * Install https://asciidoctor.org/docs/install-toolchain/[Asciidoctor]
