@@ -1,6 +1,4 @@
 = Committees and Working Groups
-:toc:
-
 PLT-COM functions through its committees and working groups. All members should participate in at least one working group or committee to help with the organization's workload.
 
 == Committees

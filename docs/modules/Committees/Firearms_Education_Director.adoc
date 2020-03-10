@@ -1,6 +1,5 @@
 // Title of leadership position goes here
 = Firearms Education Director (FED)
-:toc:
 
 == Requirements
 // List any requirements for leading the committee or working group

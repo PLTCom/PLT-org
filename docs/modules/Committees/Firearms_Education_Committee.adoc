@@ -1,6 +1,5 @@
 = Firearms Education Committee (FEC)
 // Title of committee goes here
-:toc:
 
 == Composition
 // Use this space to describe who the committee is composed of

@@ -1,0 +1,3 @@
+include::modules/member-expectations.adoc[]
+
+include::modules/Committees/assembly.adoc[]
