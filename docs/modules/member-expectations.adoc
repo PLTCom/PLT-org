@@ -52,7 +52,7 @@ At a minimum, chapters should be holding 1 quarterly general meeting. Members ne
 
 === Committee or Working Group meetings
 
-Committee or Working Group meetings should be held monthly, at a minimum. Members need to attend 75% of committee or working group meetings held during a year to remain a full member. If this is not met, member status will revert to probationary status.
+Committee or Working Group meetings should be held monthly, at a minimum. Members need to attend 75% of committee or working group meetings held during a year to remain a full member. If this is not met, member status will revert to provisional status.
 
 === Workload Requirement
 
@@ -86,4 +86,3 @@ Scientific socialism is not an abstract dogma, its is consciously maintained to 
 
 
 Full members are required to join one committee or working group and participate fully in the work being done.
-
