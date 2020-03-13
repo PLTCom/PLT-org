@@ -1,4 +1,4 @@
-= Bi-Weekly Chapter Inventory Report for the People's Liberation Training Committee Supreme Soviet
+= Bi-Weekly Chapter Inventory Report for the National Logistics Committee 
 
 [width="50%",cols=">s,^m",frame="topbot",options="header"]
 |==========================
@@ -12,3 +12,7 @@
 == Inventory
 
 List in complete detail (item name, count, total weight or volume) the contents of the chapter inventory as a table
+
+== Summary of Notable Events
+
+Any events worth mentioning
