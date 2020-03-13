@@ -1,5 +1,9 @@
 = Bi-Weekly Chapter Inventory Report for the National Logistics Committee 
 
+**Chapter**:
+
+**Chapter Logistics Coordinator**:
+
 [width="50%",cols=">s,^m",frame="topbot",options="header"]
 |==========================
 |Inventory Metrics  |Input
