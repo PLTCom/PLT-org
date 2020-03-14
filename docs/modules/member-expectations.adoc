@@ -1,6 +1,4 @@
 = Member Expectations
-:toc:
-
 To effectively accomplish our goals as an organization, PLT-COM requires dedication and discipline from its members. A member's participation in the work is the difference between a revolutionary organization that makes changes in their community and a social organization that does nothing of importance. Outlined below are base expectations for members. These expectations are the bare minimum to maintain membership.
 
 == Probationary Policy
@@ -48,13 +46,13 @@ To become a full member, a voting member must join a Marxist-Leninist or Marxist
 
 == Full Member Requirements  
 
-==== Chapter Meetings
+=== Chapter Meetings
 
 At a minimum, chapters should be holding 1 quarterly general meeting. Members need to attend 75% of general meetings held during a year.
 
-==== Committee or Working Group meetings
+=== Committee or Working Group meetings
 
-Committee or Working Group meetings should be held monthly, at a minimum. Members need to attend 75% of committee or working group meetings held during a year to remain a full member. If this is not met, member status will revert to probationary status.
+Committee or Working Group meetings should be held monthly, at a minimum. Members need to attend 75% of committee or working group meetings held during a year to remain a full member. If this is not met, member status will revert to provisional status.
 
 === Workload Requirement
 
@@ -88,4 +86,3 @@ Scientific socialism is not an abstract dogma, its is consciously maintained to 
 
 
 Full members are required to join one committee or working group and participate fully in the work being done.
-

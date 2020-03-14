@@ -1,0 +1,21 @@
+include::National_Committees.adoc[]
+
+include::Central Committee/General_Secretary.adoc[leveloffset=+1]
+
+include::Central Committee/Undersecretary.adoc[leveloffset=+1]
+
+include::Central Committee/Finance_Secretary.adoc[leveloffset=+1]
+
+include::Central Committee/Recording_Secretary.adoc[leveloffset=+1]
+
+include::NFAC/National_First_Aid_Committee.adoc[leveloffset=+1]
+
+include::NFAC/National_First_Aid_Director.adoc[leveloffset=+1]
+
+include::NFEC/National_Firearms_Education_Committee.adoc[leveloffset=+1]
+
+include::NFEC/National_Firearms_Education_Director.adoc[leveloffset=+1]
+
+include::NPEC/National_Political_Education_Committee.adoc[leveloffset=+1]
+
+include::NPEC/National_Political_Education_Director.adoc[leveloffset=+1]
