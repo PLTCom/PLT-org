@@ -3,7 +3,7 @@
 
 == Purpose
 
-Political education of PLTCom members is the sole mission of this committee. It will provide all members a course in capitalism first and scientific socialism second followed by a course on party work. It will also maintain a comprehensive digital library of marxist political material as well as a physical library as possible. 
+Political education of PLTCom members is the sole mission of this committee. It will provide all members an introductory course in capitalism first and scientific socialism second followed by a course on party work and feminism. It will also maintain a comprehensive digital library of marxist political material as well as a physical library as possible. 
 
 == Structure
 
@@ -13,6 +13,7 @@ Only _full_ members footnote:[please see <<member-expectations.adoc#Full Member 
 - Committee Chair
 - Librarian
 - Teacher(s)
+- Party Coordinator(s)
 
 == Meetings
 
@@ -20,11 +21,11 @@ This committee will meet at a minimum of 4 times per month to discuss and plan e
 
 == Reports
 
-This committee will submit a report to the Central Committee every other meeting detailing: work hours, meetings held, students, and a summary of events.
+This committee will submit a report to the Central Committee every other meeting using the standard report forms. 
 
 === Courses
 
-The specific structure and coursework is up to the discretion of the committee, but for each of these courses, the works stipulated in the course information **must** be used. 
+The specific structure of courses and coursework is up to the discretion of the committee, but for each of these courses, the works stipulated in the course information **must** be assigned and incorporated into the course. 
 
 == Requirements
 
