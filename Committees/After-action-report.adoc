@@ -1,0 +1,20 @@
+= After Action Committee Report for the People's Liberation Training Committee Supreme Soviet
+
+
+[width="50%",cols=">s,^m",frame="topbot",options="header"]
+|==========================
+|After Action Metrics   |Input
+|Work Hours Consumed    |
+|Members Involved       |
+|==========================
+
+// Work Hours Consumed: Multiply 'Members Involved' by the total hours reported by members of the committee
+// Members Involved: A number of members that contributed during the week
+
+== Summary of action:
+
+// Summarize the action, and the status of any tasks or projects involved
+
+== Other:
+
+// Any information that is pertinent to the report but doesn't fit in the other sections

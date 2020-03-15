@@ -1,0 +1,22 @@
+= Bi-Weekly Regional Inventory Report for the National Logistics Committee 
+
+**Region**:
+
+**Regional Logistics Coordinator**:
+
+[width="50%",cols=">s,^m",frame="topbot",options="header"]
+|==========================
+|Inventory Metrics  |Input
+|Work Hours Consumed    |
+|Meetings Held          |
+|Shipments sent         |
+|Shipments received     |
+|==========================
+
+== Inventory
+
+List in complete detail (item name, count, total weight or volume) the contents of the region's inventory as a table
+
+== Summary of Notable Events
+
+Any events worth mentioning
