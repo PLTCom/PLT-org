@@ -1,7 +1,5 @@
 = Firearms Education Committee (FEC)
 // Title of committee goes here
-:toc:
-
 == Composition
 // Use this space to describe who the committee is composed of
 The FEC is composed of PLTCOM members who meet the requirements listed below in the requirements section, and have applied for the committee. The committee is lead by the <<Firearms_Education_Director.adoc#,Firearms Education Director (FED)>>

@@ -1,6 +1,5 @@
 // Title of leadership position goes here
 =
-:toc:
 
 == Requirements
 // List any requirements for leading the committee or working group

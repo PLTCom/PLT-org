@@ -1,5 +1,4 @@
-= Committees and Working Groups
-:toc:
+= Overview
 
 PLT-COM functions through its committees and working groups. All members should participate in at least one working group or committee to help with the organization's workload.
 
@@ -11,10 +10,10 @@ Committees are long standing functional groups that have been deemed critical to
 
 === Current Committees
 
-* Political Education Committee (PEC)
+//* Political Education Committee (PEC)
 * Firearms Education Committee (FEC)
-* Legislative Committee (LC)
-* Security Committee (SC)
+//* Legislative Committee (LC)
+//* Security Committee (SC)
 
 == Working Groups
 
@@ -24,6 +23,7 @@ Working groups are short lived committees that have a specific set of goals and 
 === Committees
 
 Committees can be formed by petitioning the Central Committee. The petition must include:
+
 * The new committee's composition, requirements to join the committee, how often it should meet, and the duties of the committee
 * The requirements and duties of the new committee's directors, along with how the director is elected and their term length and limits.
 * The names of the founding members of the committee

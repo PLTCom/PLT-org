@@ -1,0 +1,44 @@
+= Peoples Liberation and Training Committee Member Handbook
+:toc: macro
+:imagedir: img
+
+image::{imagedir}/pltcom-round-logo.png[]
+
+<<<
+
+toc::[]
+
+<<<
+
+:includedir: committees
+
+== General
+
+:leveloffset: +2
+
+include::member-expectations.adoc[]
+
+include::{includedir}/elections.adoc[]
+
+:leveloffset: 0
+
+
+== Committees
+
+:leveloffset: +2
+
+include::{includedir}/committees-overview.adoc[]
+
+
+include::{includedir}/committee-process.adoc[]
+
+
+include::{includedir}/firearms_education_committee.adoc[]
+
+:leveloffset: 0
+
+== Leadership
+
+:leveloffset: +2
+
+include::{includedir}/firearms_education_director.adoc[]

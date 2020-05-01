@@ -1,5 +1,4 @@
 = Elections
-:toc:
 
 It is extremely important that PLTCOM members participate in the selection of their leadership. However, direct election of leadership can quickly turn into a popularity contest, which should be avoided. To balance these two requirements, the election procedure below has been implemented.
 
